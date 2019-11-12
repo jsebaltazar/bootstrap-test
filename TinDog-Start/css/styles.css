@@ -1,0 +1,28 @@
+#title {
+  background-color: #ff4c68;
+  font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+    font-size: 3.5rem;
+    text-align: left;
+
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color:white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
